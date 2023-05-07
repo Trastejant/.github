@@ -22,7 +22,7 @@
 |  | Proyecto | Progreso |
 | -- | -- | -- |
 | 🌱 | [Invernadero 2.0](https://trastejant.github.io/projects/invernadero_2_0/) | █████████░ 90% |
-| 🚧 | [Smart Pot]() | ███░░░░░░░ 30% |
+| 🚧 | [Smart Pot](https://trastejant.github.io/projects/SmartPot/) | ███░░░░░░░ 30% |
 
 ## Tecnologias
 
